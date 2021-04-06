@@ -7,7 +7,7 @@
 
 .profile-card {
   width: 500px;
-  max-width: calc(200vw - 30px);
+  /*max-width: calc(200vw - 30px);*/
 }
 body {
   display: flex;
