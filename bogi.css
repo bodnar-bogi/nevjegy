@@ -6,8 +6,8 @@
 }
 
 .profile-card {
-  width: 100%;
-  /*max-width: calc(200vw - 30px);*/
+  width: 500px;
+  max-width: calc(200vw - 30px);
 }
 body {
   display: flex;
